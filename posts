@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Future of AI in Everyday Life",
+    "description": "Exploring how artificial intelligence is shaping our homes, workplaces, and cities.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Technology",
+    "date": "2025-11-08"
+  },
+  {
+    "title": "Top 10 Destinations to Visit in 2025",
+    "description": "A curated list of breathtaking travel spots to explore this year.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Travel",
+    "date": "2025-11-07"
+  },
+  {
+    "title": "Healthy Habits for a Productive Morning Routine",
+    "description": "Simple practices that can help you start your day with focus and energy.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Lifestyle",
+    "date": "2025-11-06"
+  },
+  {
+    "title": "Mastering Remote Work in the Digital Age",
+    "description": "Tips and tools to help you stay efficient while working from home.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Business",
+    "date": "2025-11-05"
+  },
+  {
+    "title": "The Rise of Electric Vehicles: What’s Next?",
+    "description": "An in-depth look at innovations and trends driving the EV revolution.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Automotive",
+    "date": "2025-11-04"
+  },
+  {
+    "title": "A Beginner’s Guide to Sustainable Living",
+    "description": "Practical ways to reduce your environmental footprint and live greener.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Environment",
+    "date": "2025-11-03"
+  },
+  {
+    "title": "How to Build a Personal Brand Online",
+    "description": "Learn how to grow your online presence and build a strong digital identity.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Marketing",
+    "date": "2025-11-02"
+  },
+  {
+    "title": "The Evolution of Gaming in the Metaverse",
+    "description": "Discover how virtual worlds are transforming the gaming experience.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Entertainment",
+    "date": "2025-11-01"
+  },
+  {
+    "title": "Delicious Plant-Based Recipes for Every Meal",
+    "description": "Tasty vegan and vegetarian dishes that are both nutritious and easy to make.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Food",
+    "date": "2025-10-31"
+  },
+  {
+    "title": "The Power of Mindfulness in a Busy World",
+    "description": "How mindfulness and meditation can improve focus, calm, and well-being.",
+    "image": "https://via.placeholder.com/600x400",
+    "category": "Health",
+    "date": "2025-10-30"
+  }
+]
